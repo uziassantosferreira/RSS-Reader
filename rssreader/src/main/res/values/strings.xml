@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">RSS Reader</string>
     <string name="commons_loading">Loading…</string>
+    <string name="hint_url">Insert the url</string>
 </resources>

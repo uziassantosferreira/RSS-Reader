@@ -3,5 +3,7 @@
 
     <dimen name="loading">40dp</dimen>
     <dimen name="padding_small">8dp</dimen>
+    <dimen name="image_item">100dp</dimen>
+    <dimen name="elevation">4dp</dimen>
 
 </resources>
