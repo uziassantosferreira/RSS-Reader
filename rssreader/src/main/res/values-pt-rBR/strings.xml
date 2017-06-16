@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RSS Reader</string>
+    <string name="commons_loading">Carregando…</string>
+    <string name="hint_url">Coloque uma url</string>
+</resources>

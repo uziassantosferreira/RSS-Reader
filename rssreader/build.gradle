@@ -76,7 +76,7 @@ dependencies {
     kapt "io.requery:requery-processor:$REQUERY_VERSION"
 
     testCompile "junit:junit:$JUNIT_VERSION"
-    testCompile ("com.nhaarman:mockito-kotlin-kt1.1:$MOCKITO_KOTLIN_VERSION", {
+        testCompile ("com.nhaarman:mockito-kotlin-kt1.1:$MOCKITO_KOTLIN_VERSION", {
         exclude group: 'org.jetbrains.kotlin', module: 'kotlin-reflect'
         exclude group: 'org.jetbrains.kotlin', module: 'kotlin-stdlib'
 
