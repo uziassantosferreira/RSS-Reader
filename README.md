@@ -78,6 +78,13 @@ Create an application capable to read urls rss, displaying these information in 
 <img src="showcase/showcase_4.png" align="center" width=150>
 </p>
 
+## Demonstration
+
+<p align="center">
+  <img src="showcase/app.gif" align="center"><br /><br />
+    <b>Figure 02:</b> sample demonstration of app
+ </p>
+
 <a name="architecture" />
 
 # Architecture
