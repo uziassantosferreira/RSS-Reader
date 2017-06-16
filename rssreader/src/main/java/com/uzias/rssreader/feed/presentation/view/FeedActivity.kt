@@ -22,8 +22,13 @@ import kotlinx.android.synthetic.main.custom_dialog_input_url.view.*
 import kotlinx.android.synthetic.main.toolbar.*
 import javax.inject.Inject
 import android.app.ProgressDialog
+import com.uzias.rssreader.feed.presentation.ItemListener
+import com.uzias.rssreader.feed.presentation.model.PresentationItem
+import android.content.Intent
+import android.net.Uri
 
-class FeedActivity : BaseActivity(), FeedView, RssListener {
+
+class FeedActivity : BaseActivity(), FeedView, RssListener, ItemListener {
 
     private lateinit var progress: ProgressDialog
 
@@ -37,7 +42,7 @@ class FeedActivity : BaseActivity(), FeedView, RssListener {
     }
 
     private val itemAdapter: ItemAdapter by lazy {
-        ItemAdapter(this, mutableListOf(), R.layout.list_item_feed_item)
+        ItemAdapter(this, mutableListOf(), R.layout.list_item_feed_item, this)
     }
 
     @Inject
@@ -118,5 +123,12 @@ class FeedActivity : BaseActivity(), FeedView, RssListener {
             itemAdapter.addItem(it)
         }
     }
+
+    override fun clicked(presentationItem: PresentationItem) {
+        val uri = Uri.parse(presentationItem.url)
+        val intent = Intent(Intent.ACTION_VIEW, uri)
+        startActivity(intent)
+    }
+
 
 }

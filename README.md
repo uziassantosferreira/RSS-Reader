@@ -59,6 +59,11 @@ Create an application capable to read urls rss, displaying these information in 
      <td align="justify">Internationalize the application</td>
      <td align="justify">Add support for portuguese language</td>
   </tr>
+  <tr>
+    <td>REQ006</td>
+     <td align="justify">Open navigation to show details feed</td>
+     <td align="justify">Open navigation when you click link</td>
+  </tr>
 </table>
 
 <a name="showcase" />
