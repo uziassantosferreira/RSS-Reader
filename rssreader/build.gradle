@@ -15,7 +15,6 @@ ext {
     SUPPORT_LIBS_VERSION = '25.3.1'
     ESPRESSO_CORE_VERSION = '2.2.2'
     JUNIT_VERSION = '4.12'
-    DAGGER_VERSION = '2.10'
     RX_VERSION = '2.0.1'
     DAGGER_VERSION = '2.11'
     REQUERY_VERSION = '1.3.2'
@@ -76,14 +75,13 @@ dependencies {
     compile "io.requery:requery-android:$REQUERY_VERSION"
     kapt "io.requery:requery-processor:$REQUERY_VERSION"
 
-
     testCompile "junit:junit:$JUNIT_VERSION"
     testCompile ("com.nhaarman:mockito-kotlin-kt1.1:$MOCKITO_KOTLIN_VERSION", {
         exclude group: 'org.jetbrains.kotlin', module: 'kotlin-reflect'
         exclude group: 'org.jetbrains.kotlin', module: 'kotlin-stdlib'
 
     })
-    
+
 }
 
 kapt {

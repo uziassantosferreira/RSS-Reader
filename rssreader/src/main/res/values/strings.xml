@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">RSS Reader</string>
+    <string name="commons_loading">Loading…</string>
 </resources>
