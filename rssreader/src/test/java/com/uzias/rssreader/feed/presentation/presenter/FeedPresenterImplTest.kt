@@ -42,7 +42,7 @@ class FeedPresenterImplTest : Rx2TestBase() {
     }
 
     @Test
-    fun input_url_and_add_rss() {
+    fun input_url() {
         presenter.attachTo(view)
         presenter.clickedButtonOkInputUrl(InvalidData.UNINITIALIZED.getString())
         verify(view, times(2)).addRss(any())
