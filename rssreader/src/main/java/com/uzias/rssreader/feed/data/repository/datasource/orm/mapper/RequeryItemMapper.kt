@@ -11,9 +11,9 @@ class RequeryItemMapper {
                 description = requeryItem.description, pubDate = requeryItem.publishDate,
                 imageUrl =  requeryItem.image)
 
-        fun transformFrom(itens: MutableSet<RequeryItem>): MutableList<Item>{
+        fun transformFrom(requeryItems: MutableSet<RequeryItem>): MutableList<Item>{
             val items = mutableListOf<Item>()
-            itens.forEach {
+            requeryItems.forEach {
                 items.add(transformFrom(it))
             }
             return items

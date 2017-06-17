@@ -12,5 +12,5 @@ interface RequeryRss : Persistable, Parcelable {
     var url: String
 
     @get:OneToMany(mappedBy = "requeryItem")
-    val requeryItem: MutableSet<RequeryItem>
+    val requeryItems: MutableSet<RequeryItem>
 }

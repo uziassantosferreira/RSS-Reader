@@ -8,7 +8,7 @@ class RequeryRssMapper {
     companion object {
         fun transformFrom(requeryRss: RequeryRss): Rss
                 = Rss(url = requeryRss.url,
-                items = RequeryItemMapper.transformFrom(requeryRss.requeryItem))
+                items = RequeryItemMapper.transformFrom(requeryRss.requeryItems))
     }
 
 }

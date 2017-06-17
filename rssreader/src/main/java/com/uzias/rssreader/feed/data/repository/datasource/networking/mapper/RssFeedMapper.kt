@@ -11,26 +11,11 @@ class RssFeedMapper {
             val items = mutableListOf<Item>()
             rssFeed.items?.let {
                 it.forEach {
-                    var image = ""
-                    var title = ""
-                    var link = ""
-                    var publishDate = ""
-                    var description = ""
-                    if (it.image != null){
-                        image = it.image
-                    }
-                    if (it.title != null){
-                        title = it.title
-                    }
-                    if (it.link != null){
-                        link = it.link
-                    }
-                    if (it.publishDate != null){
-                        publishDate = it.publishDate
-                    }
-                    if (it.description != null){
-                        description = it.description
-                    }
+                    val image = if (it.image != null) it.image else ""
+                    val title = if (it.title != null) it.title else ""
+                    val link = if (it.link != null) it.link else ""
+                    val publishDate = if (it.publishDate != null) it.publishDate else ""
+                    val description = if (it.description != null) it.description else ""
                     val item = Item(title = title, url = link, imageUrl = image,
                             pubDate =  publishDate, description =  description)
                     items.add(item)
