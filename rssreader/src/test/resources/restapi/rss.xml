@@ -1,0 +1,694 @@
+<?xml version="1.0"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:nyt="http://www.nytimes.com/namespaces/rss/2.0" version="2.0">
+    <channel>
+        <title>NYT &gt; Home Page</title>
+        <link>http://www.nytimes.com/pages/index.html?partner=rss&amp;emc=rss</link>
+        <atom:link rel="self" type="application/rss+xml" href="http://www.nytimes.com/services/xml/rss/nyt/HomePage.xml"/>
+        <description/>
+        <language>en-us</language>
+        <copyright>Copyright 2017  The New York Times Company</copyright>
+        <lastBuildDate>Sat, 17 Jun 2017 22:15:53 GMT </lastBuildDate>
+        <image>
+            <title>NYT &gt; Home Page</title>
+            <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
+            <link>http://www.nytimes.com/pages/index.html?partner=rss&amp;emc=rss</link>
+        </image>
+        <item>
+            <title>Bill Cosby&#x2019;s Sexual Assault Case Ends in a Mistrial</title>
+            <link>https://www.nytimes.com/2017/06/17/arts/television/bill-cosby-trial-day-11.html?partner=rss&amp;emc=rss</link>
+            <guid isPermaLink="true">https://www.nytimes.com/2017/06/17/arts/television/bill-cosby-trial-day-11.html</guid>
+            <atom:link rel="standout" href="https://www.nytimes.com/2017/06/17/arts/television/bill-cosby-trial-day-11.html?partner=rss&amp;emc=rss"/>
+            <media:content url="https://static01.nyt.com/images/2017/06/19/us/18COSBY-HP1/18COSBY-HP1-moth.jpg" medium="image" height="151" width="151"/>
+            <media:description>Bill Cosby, center, stands with his spokesman Andrew Wyatt, left, outside of the Montgomery County Courthouse in Norristown, Pa.</media:description>
+            <media:credit>Lucas Jackson/Reuters</media:credit>
+            <description>After the jury could not come to verdict after six days of deliberations, the judge in the sexual assault trial declared a mistrial.</description>
+            <dc:creator>GRAHAM BOWLEY, RICHARD P&#xC9;REZ-PE&#xD1;A and JON HURDLE</dc:creator>
+            <pubDate>Sat, 17 Jun 2017 21:02:18 GMT</pubDate>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Sex Crimes</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Cosby, Bill</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Constand, Andrea</category>
+        </item>
+        <item>
+            <title>Why Couldn&#x2019;t the Cosby Jury Reach a Verdict? Legal Experts Assess</title>
+            <link>https://www.nytimes.com/2017/06/17/arts/cosby-jury-verdict-legal-experts-assess.html?partner=rss&amp;emc=rss</link>
+            <guid isPermaLink="true">https://www.nytimes.com/2017/06/17/arts/cosby-jury-verdict-legal-experts-assess.html</guid>
+            <atom:link rel="standout" href="https://www.nytimes.com/2017/06/17/arts/cosby-jury-verdict-legal-experts-assess.html?partner=rss&amp;emc=rss"/>
+            <media:content url="https://static01.nyt.com/images/2017/06/13/arts/13experts-court/13experts-court-moth.jpg" medium="image" height="151" width="151"/>
+            <media:description>The Montgomery County Courthouse in Norristown, Pa., during Bill Cosby&#x2019;s sexual assault trial.</media:description>
+            <media:credit>Matt Rourke/Associated Press</media:credit>
+            <description>Lawyers and law professors analyzing the mistrial pointed to inconsistencies in testimony and the difficulties of persuading one or more recalcitrant jurors.</description>
+            <dc:creator>SYDNEY EMBER</dc:creator>
+            <pubDate>Sat, 17 Jun 2017 19:49:02 GMT</pubDate>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Jury System</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Celebrities</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Cosby, Bill</category>
+        </item>
+        <item>
+            <title>Trump&#x2019;s Business Ties in Persian Gulf Raise Questions About His Allegiances</title>
+            <link>https://www.nytimes.com/2017/06/17/world/middleeast/trumps-business-ties-in-persian-gulf-raise-questions-about-his-allegiances.html?partner=rss&amp;emc=rss</link>
+            <guid isPermaLink="true">https://www.nytimes.com/2017/06/17/world/middleeast/trumps-business-ties-in-persian-gulf-raise-questions-about-his-allegiances.html</guid>
+            <atom:link rel="standout" href="https://www.nytimes.com/2017/06/17/world/middleeast/trumps-business-ties-in-persian-gulf-raise-questions-about-his-allegiances.html?partner=rss&amp;emc=rss"/>
+            <media:content url="https://static01.nyt.com/images/2017/06/18/world/TRUMP-QATAR1/TRUMP-QATAR1-moth.jpg" medium="image" height="151" width="151"/>
+            <media:description>Along the motorcade route for President Trump, on the way to the airport in Riyadh, Saudi Arabia, where he recently attended a summit meeting.</media:description>
+            <media:credit>Stephen Crowley/The New York Times</media:credit>
+            <description>In the feud among Arab nations, President Trump has supported the ones with which he does business.</description>
+            <dc:creator>DAVID D. KIRKPATRICK</dc:creator>
+            <pubDate>Sat, 17 Jun 2017 15:15:34 GMT</pubDate>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Qatar</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Saudi Arabia</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United Arab Emirates</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Persian Gulf</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Middle East</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Conflicts of Interest</category>
+        </item>
+        <item>
+            <title>Trump Attacks Rosenstein in Latest Rebuke of Justice Department</title>
+            <link>https://www.nytimes.com/2017/06/16/us/politics/trump-investigation-comey-russia.html?partner=rss&amp;emc=rss</link>
+            <guid isPermaLink="true">https://www.nytimes.com/2017/06/16/us/politics/trump-investigation-comey-russia.html</guid>
+            <atom:link rel="standout" href="https://www.nytimes.com/2017/06/16/us/politics/trump-investigation-comey-russia.html?partner=rss&amp;emc=rss"/>
+            <media:content url="https://static01.nyt.com/images/2017/06/17/us/17dc-trump-1/17dc-trump-1-moth.jpg" medium="image" height="151" width="151"/>
+            <media:description>President Trump with Lt. Gen. H.R. McMaster, his national security adviser, on Friday. The president wrote on Twitter, in reference to the deputy attorney general: &#x201C;I am being investigated for firing the FBI Director by the man who told me to fire the FBI Director!&#x201D;</media:description>
+            <media:credit>T.J. Kirkpatrick for The New York Times</media:credit>
+            <description>The president is increasingly at odds with the Justice Department and the F.B.I. as the investigation into Russian election interference expands.</description>
+            <dc:creator>MICHAEL D. SHEAR, CHARLIE SAVAGE and MAGGIE HABERMAN</dc:creator>
+            <pubDate>Sat, 17 Jun 2017 01:12:39 GMT</pubDate>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Interference in 2016 US Elections and Ties to Trump Associates</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Justice Department</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Special Prosecutors (Independent Counsel)</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mueller, Robert S III</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Rosenstein, Rod J</category>
+        </item>
+        <item>
+            <title>Education Dept. Says It Will Scale Back Civil Rights Investigations</title>
+            <link>https://www.nytimes.com/2017/06/16/us/politics/education-department-civil-rights-betsy-devos.html?partner=rss&amp;emc=rss</link>
+            <guid isPermaLink="true">https://www.nytimes.com/2017/06/16/us/politics/education-department-civil-rights-betsy-devos.html</guid>
+            <atom:link rel="standout" href="https://www.nytimes.com/2017/06/16/us/politics/education-department-civil-rights-betsy-devos.html?partner=rss&amp;emc=rss"/>
+            <media:content url="https://static01.nyt.com/images/2017/06/17/us/17dc-education/17dc-education-moth.jpg" medium="image" height="151" width="151"/>
+            <media:description>Betsy DeVos, the education secretary, has denounced discrimination, but has signaled that her office is &#x201C;not going to be issuing any decrees&#x201D; on civil rights.</media:description>
+            <media:credit>Doug Mills/The New York Times</media:credit>
+            <description>The department will not consider civil rights investigations mandatory, loosening rules that spurred broad looks at issues from sexual assault to disciplinary actions.</description>
+            <dc:creator>ERICA L. GREEN</dc:creator>
+            <pubDate>Sat, 17 Jun 2017 00:34:46 GMT</pubDate>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Education Department (US)</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">DeVos, Elizabeth (1958- )</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Civil Rights and Liberties</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Education (K-12)</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Colleges and Universities</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+        </item>
+        <item>
+            <title>Mueller, Sessions and Cuba: Trump News of the Week</title>
+            <link>https://www.nytimes.com/2017/06/16/us/politics/trump-news.html?partner=rss&amp;emc=rss</link>
+            <guid isPermaLink="true">https://www.nytimes.com/2017/06/16/us/politics/trump-news.html</guid>
+            <atom:link rel="standout" href="https://www.nytimes.com/2017/06/16/us/politics/trump-news.html?partner=rss&amp;emc=rss"/>
+            <media:content url="https://static01.nyt.com/images/2017/06/12/briefing/12eveningss-slide-YVRG/12eveningss-slide-YVRG-moth.jpg" medium="image" height="151" width="151"/>
+            <media:description>President Trump meeting with his cabinet on Monday.</media:description>
+            <media:credit>Doug Mills/The New York Times</media:credit>
+            <description>Worried that you missed an important political story this week? You&#x2019;re not alone. Catch up on a very busy week of news.</description>
+            <dc:creator>Compiled by ERIN SEIMS</dc:creator>
+            <pubDate>Fri, 16 Jun 2017 19:43:35 GMT</pubDate>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+        </item>
+        <item>
+            <title>Trump&#x2019;s Businesses Show Mixed Returns During Campaign and Presidency</title>
+            <link>https://www.nytimes.com/2017/06/16/us/politics/trumps-financial-disclosures.html?partner=rss&amp;emc=rss</link>
+            <guid isPermaLink="true">https://www.nytimes.com/2017/06/16/us/politics/trumps-financial-disclosures.html</guid>
+            <atom:link rel="standout" href="https://www.nytimes.com/2017/06/16/us/politics/trumps-financial-disclosures.html?partner=rss&amp;emc=rss"/>
+            <media:content url="https://static01.nyt.com/images/2017/06/17/us/17dc-financial/17dc-financial-moth.jpg" medium="image" height="151" width="151"/>
+            <media:description>President Trump returned to the White House on Friday after an event in Miami. The disclosures of Mr. Trump&#x2019;s private finances have significant limitations and lack the level of detail normally provided in tax returns.</media:description>
+            <media:credit>T.J. Kirkpatrick for The New York Times</media:credit>
+            <description>Revenue from several holdings from his global business enterprises rose substantially in the last year, while others were flat or lower</description>
+            <dc:creator>STEVE EDER, ERIC LIPTON and ANDREW W. LEHREN</dc:creator>
+            <pubDate>Sat, 17 Jun 2017 00:30:22 GMT</pubDate>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Conflicts of Interest</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Interference in 2016 US Elections and Ties to Trump Associates</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Office of Government Ethics</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Trump Organization</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+        </item>
+        <item>
+            <title>Before the Gunfire in Virginia, a Volatile Home Life in Illinois</title>
+            <link>https://www.nytimes.com/2017/06/17/us/virginia-shooting-james-hodgkinson-illinois.html?partner=rss&amp;emc=rss</link>
+            <guid isPermaLink="true">https://www.nytimes.com/2017/06/17/us/virginia-shooting-james-hodgkinson-illinois.html</guid>
+            <atom:link rel="standout" href="https://www.nytimes.com/2017/06/17/us/virginia-shooting-james-hodgkinson-illinois.html?partner=rss&amp;emc=rss"/>
+            <media:content url="https://static01.nyt.com/images/2017/06/18/us/18Bellville-1/18Bellville-1-moth.jpg" medium="image" height="151" width="151"/>
+            <media:description>The Hodgkinsons&#x2019; home in Belleville, Ill. James T. Hodgkinson spent much of his adult life in the town, a community of just over 40,000 people not far from St. Louis.</media:description>
+            <media:credit>Michael B. Thomas/Getty Images North America</media:credit>
+            <description>James T. Hodgkinson had a troubled life before he drove halfway across the country to shoot at members of Congress at a baseball practice.</description>
+            <dc:creator>JULIE TURKEWITZ, SHERYL GAY STOLBERG, JOHN ELIGON and ALAN BLINDER</dc:creator>
+            <pubDate>Sat, 17 Jun 2017 16:26:51 GMT</pubDate>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Congressional Baseball Team Shooting (June, 2017)</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Belleville News-Democrat</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hodgkinson, James T (1950-2017)</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Murders, Attempted Murders and Homicides</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Illinois</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Alexandria (Va)</category>
+        </item>
+        <item>
+            <title>Rooting for Scalise Through Hospital Ordeal: His 3 Capitol Roommates</title>
+            <link>https://www.nytimes.com/2017/06/17/us/politics/scalise-paulsen-brady-shimkus-washington.html?partner=rss&amp;emc=rss</link>
+            <guid isPermaLink="true">https://www.nytimes.com/2017/06/17/us/politics/scalise-paulsen-brady-shimkus-washington.html</guid>
+            <atom:link rel="standout" href="https://www.nytimes.com/2017/06/17/us/politics/scalise-paulsen-brady-shimkus-washington.html?partner=rss&amp;emc=rss"/>
+            <media:content url="https://static01.nyt.com/images/2017/06/17/us/17dc-ROOMIES-1/17dc-ROOMIES-1-moth.jpg" medium="image" height="151" width="151"/>
+            <media:description>A group showed support for Representative Steve Scalise after the Congressional Baseball Game in Washington on Thursday.</media:description>
+            <media:credit>Al Drago/The New York Times</media:credit>
+            <description>While the lawmaker continues to grapple with extensive injuries after being shot last week, his housemates stay hopeful and cautiously plan for a homecoming.</description>
+            <dc:creator>KATIE ROGERS</dc:creator>
+            <pubDate>Sat, 17 Jun 2017 16:10:28 GMT</pubDate>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Baseball</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Congressional Baseball Team Shooting (June, 2017)</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Scalise, Steve</category>
+        </item>
+        <item>
+            <title>Rescuers Search for 7 Sailors as Damaged U.S. Destroyer Reaches Port</title>
+            <link>https://www.nytimes.com/2017/06/17/world/asia/rescuers-search-for-7-sailors-as-damaged-us-destroyer-reaches-port.html?partner=rss&amp;emc=rss</link>
+            <guid isPermaLink="true">https://www.nytimes.com/2017/06/17/world/asia/rescuers-search-for-7-sailors-as-damaged-us-destroyer-reaches-port.html</guid>
+            <atom:link rel="standout" href="https://www.nytimes.com/2017/06/17/world/asia/rescuers-search-for-7-sailors-as-damaged-us-destroyer-reaches-port.html?partner=rss&amp;emc=rss"/>
+            <media:content url="https://static01.nyt.com/images/2017/06/17/world/asia/ship-img/ship-img-moth.jpg" medium="image" height="151" width="151"/>
+            <media:description>The USS Fitzgerald returned to Yokosuka Naval Base with the help of tugboats after its collision with the container ship ACX Crystal off the coast of Yokosuka, Japan.</media:description>
+            <media:credit>Franck Robichon/European Pressphoto Agency</media:credit>
+            <description>Aided by tugboats and with water pouring into its hull, the destroyer returned to an American naval base after colliding with a cargo ship off Japan.</description>
+            <dc:creator>JONATHAN SOBLE, MOTOKO RICH and ANDY NEWMAN</dc:creator>
+            <pubDate>Sat, 17 Jun 2017 21:38:46 GMT</pubDate>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">United States Navy</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Maritime Accidents and Safety</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Japan</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Rescues</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Swift, Scott H (1957- )</category>
+        </item>
+        <item>
+            <title>Guilty Verdict for Young Woman Who Urged Friend to Kill Himself</title>
+            <link>https://www.nytimes.com/2017/06/16/us/suicide-texting-trial-michelle-carter-conrad-roy.html?partner=rss&amp;emc=rss</link>
+            <guid isPermaLink="true">https://www.nytimes.com/2017/06/16/us/suicide-texting-trial-michelle-carter-conrad-roy.html</guid>
+            <atom:link rel="standout" href="https://www.nytimes.com/2017/06/16/us/suicide-texting-trial-michelle-carter-conrad-roy.html?partner=rss&amp;emc=rss"/>
+            <description>Michelle Carter, who pressed Conrad Roy III to kill himself, was convicted in a rare finding that a person&#x2019;s words can directly cause someone else&#x2019;s suicide.</description>
+            <dc:creator>KATHARINE Q. SEELYE and JESS BIDGOOD</dc:creator>
+            <pubDate>Sat, 17 Jun 2017 03:14:23 GMT</pubDate>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Carter, Michelle (2014 Conrad Roy Suicide)</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Roy, Conrad III (d 2014)</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Suicides and Suicide Attempts</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Depression (Mental)</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Text Messaging</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Murders, Attempted Murders and Homicides</category>
+        </item>
+        <item>
+            <title>After Tragedy, Healing a Charleston Church</title>
+            <link>https://www.nytimes.com/video/us/100000005126564/charleston-church-emanuel-african-methodist-episcopal.html?partner=rss&amp;emc=rss</link>
+            <guid isPermaLink="true">https://www.nytimes.com/video/us/100000005126564/charleston-church-emanuel-african-methodist-episcopal.html</guid>
+            <description>On June 17, 2015, nine people were shot and killed inside Emanuel African Methodist Episcopal Church in Charleston, S.C. In this 360&#xB0; video, stand with the congregation during a Sunday service.</description>
+            <dc:creator/>
+            <pubDate>Sat, 17 Jun 2017 09:00:02 GMT</pubDate>
+            <category domain="http://www.nytimes.com/namespaces/des">Charleston, SC, Shooting (2015)</category>
+            <category domain="http://www.nytimes.com/namespaces/nyt_geo">South Carolina</category>
+        </item>
+        <item>
+            <title>Your Daily Mini Crossword</title>
+            <link>http://www.nytimes.com/crosswords/game/mini?partner=rss&amp;emc=rss</link>
+            <guid isPermaLink="true">http://www.nytimes.com/crosswords/game/mini</guid>
+            <atom:link rel="standout" href="http://www.nytimes.com/crosswords/game/mini?partner=rss&amp;emc=rss"/>
+            <description>Solve a bite-size crossword in just a few minutes.</description>
+            <dc:creator/>
+            <pubDate>Tue, 14 Mar 2017 22:01:11 GMT</pubDate>
+        </item>
+        <item>
+            <title>A Mother&#x2019;s Death, a Botched Inquiry and a Sheriff at War</title>
+            <link>https://www.nytimes.com/2017/06/17/us/michelle-oconnell-jeremy-banks.html?partner=rss&amp;emc=rss</link>
+            <guid isPermaLink="true">https://www.nytimes.com/2017/06/17/us/michelle-oconnell-jeremy-banks.html</guid>
+            <atom:link rel="standout" href="https://www.nytimes.com/2017/06/17/us/michelle-oconnell-jeremy-banks.html?partner=rss&amp;emc=rss"/>
+            <media:content url="https://static01.nyt.com/images/2017/04/24/multimedia/00sheriff-images-slide-EN11/00sheriff-images-slide-EN11-moth-v2.jpg" medium="image" height="151" width="151"/>
+            <media:description>Rusty Rodgers, a special agent with the Florida Department of Law Enforcement. His review of a closed case would upend his life.</media:description>
+            <media:credit>George Etheredge for The New York Times</media:credit>
+            <description>The sheriff called it a suicide. When a state investigator raised questions, he became the investigated.</description>
+            <dc:creator>WALT BOGDANICH</dc:creator>
+            <pubDate>Sat, 17 Jun 2017 11:53:10 GMT</pubDate>
+            <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Police Brutality, Misconduct and Shootings</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Search and Seizure</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Special Prosecutors (Independent Counsel)</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Autopsies</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Police</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Murders, Attempted Murders and Homicides</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Banks, Jeremy (1987- )</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">O'Connell, Michelle (1985-2010)</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Rodgers, Rusty Ray (1956- )</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Shoar, David B (1961- )</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">St Johns County (Fla)</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Firearms</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Witnesses</category>
+        </item>
+        <item>
+            <title>Whole Foods Deal Shows Amazon&#x2019;s Prodigious Tolerance for Risk</title>
+            <link>https://www.nytimes.com/2017/06/17/technology/whole-foods-amazon.html?partner=rss&amp;emc=rss</link>
+            <guid isPermaLink="true">https://www.nytimes.com/2017/06/17/technology/whole-foods-amazon.html</guid>
+            <atom:link rel="standout" href="https://www.nytimes.com/2017/06/17/technology/whole-foods-amazon.html?partner=rss&amp;emc=rss"/>
+            <media:content url="https://static01.nyt.com/images/2017/06/18/us/18Amazon-1/18Amazon-1-moth.jpg" medium="image" height="151" width="151"/>
+            <media:description>Jeff Bezos, the founder of Amazon, at the Space Symposium in Colorado Springs in April. His embrace of risk and experimentation has included the development of reusable rockets.</media:description>
+            <media:credit>Nick Cote for The New York Times</media:credit>
+            <description>A longtime approach of making bold &#x2014; and sometimes head-scratching &#x2014; moves has brought Jeff Bezos staggering success.</description>
+            <dc:creator>DAVID STREITFELD</dc:creator>
+            <pubDate>Sat, 17 Jun 2017 16:18:20 GMT</pubDate>
+            <category domain="http://www.nytimes.com/namespaces/keywords/mdes">E-Commerce</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Cloud Computing</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Supermarkets and Grocery Stores</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Amazon.com Inc</category>
+        </item>
+        <item>
+            <title>Robot Revolution: Amazon&#x2019;s Move Signals End of Line for Many Cashiers</title>
+            <link>https://www.nytimes.com/2017/06/17/upshot/amazons-move-signals-end-of-line-for-many-cashiers.html?partner=rss&amp;emc=rss</link>
+            <guid isPermaLink="true">https://www.nytimes.com/2017/06/17/upshot/amazons-move-signals-end-of-line-for-many-cashiers.html</guid>
+            <atom:link rel="standout" href="https://www.nytimes.com/2017/06/17/upshot/amazons-move-signals-end-of-line-for-many-cashiers.html?partner=rss&amp;emc=rss"/>
+            <media:content url="https://static01.nyt.com/images/2016/09/08/us/17up-cashier/08xp-lines-moth.jpg" medium="image" height="151" width="151"/>
+            <media:description>Shoppers in line at a Brooklyn Whole Foods. The grocery store of the future may not have checkout lines or cashiers.</media:description>
+            <media:credit>Nina Westervelt for The New York Times</media:credit>
+            <description>The next jobs set to disappear may be ones that are a bigger part of people&#x2019;s daily lives: retail workers and cashiers in stores and restaurants.</description>
+            <dc:creator>CLAIRE CAIN MILLER</dc:creator>
+            <pubDate>Sat, 17 Jun 2017 12:59:34 GMT</pubDate>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Labor and Jobs</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Amazon.com Inc</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Shopping and Retail</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Computers and the Internet</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Robots and Robotics</category>
+        </item>
+        <item>
+            <title>State of the Art: In Whole Foods, Bezos Gets a Sustainably Sourced Guinea Pig</title>
+            <link>https://www.nytimes.com/2017/06/17/technology/whole-foods-amazon-jeff-bezos.html?partner=rss&amp;emc=rss</link>
+            <guid isPermaLink="true">https://www.nytimes.com/2017/06/17/technology/whole-foods-amazon-jeff-bezos.html</guid>
+            <atom:link rel="standout" href="https://www.nytimes.com/2017/06/17/technology/whole-foods-amazon-jeff-bezos.html?partner=rss&amp;emc=rss"/>
+            <media:content url="https://static01.nyt.com/images/2017/06/17/business/17GroceryWarsArt/17GroceryWarsArt-moth.jpg" medium="image" height="151" width="151"/>
+            <media:description/>
+            <media:credit>Minh Uong/The New York Times</media:credit>
+            <description>By purchasing the upscale chain, Jeff Bezos, Amazon&#x2019;s chief, has a chance to tinker with how people buy groceries &#x2014; and map the future of the physical store.</description>
+            <dc:creator>FARHAD MANJOO</dc:creator>
+            <pubDate>Sat, 17 Jun 2017 09:00:22 GMT</pubDate>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Amazon.com Inc</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Whole Foods Market Inc</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bezos, Jeffrey P</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Mergers, Acquisitions and Divestitures</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/mdes">E-Commerce</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Shopping and Retail</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Supermarkets and Grocery Stores</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Food</category>
+        </item>
+        <item>
+            <title>Rooted in Counterculture, Whole Foods&#x2019; Founder Finds an Unlikely Refuge</title>
+            <link>https://www.nytimes.com/2017/06/16/business/dealbook/whole-foods-john-mackey-amazon.html?partner=rss&amp;emc=rss</link>
+            <guid isPermaLink="true">https://www.nytimes.com/2017/06/16/business/dealbook/whole-foods-john-mackey-amazon.html</guid>
+            <atom:link rel="standout" href="https://www.nytimes.com/2017/06/16/business/dealbook/whole-foods-john-mackey-amazon.html?partner=rss&amp;emc=rss"/>
+            <media:content url="https://static01.nyt.com/images/2017/06/17/business/17WHOLEFOODS/17WHOLEFOODS-moth.jpg" medium="image" height="151" width="151"/>
+            <media:description>John Mackey, Whole Foods&#x2019; chief, had long resisted its sale.</media:description>
+            <media:credit>Ryan Lowry</media:credit>
+            <description>John Mackey wanted to fight off the activist investors attacking Whole Foods. He found a savior in Amazon, a company blamed for laying waste to retailers.</description>
+            <dc:creator>MICHAEL J. de la MERCED and ALEXANDRA STEVENSON</dc:creator>
+            <pubDate>Sat, 17 Jun 2017 01:07:10 GMT</pubDate>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Supermarkets and Grocery Stores</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Organic Foods and Products</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Health Foods</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Mergers, Acquisitions and Divestitures</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Hedge Funds</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Jana Partners LLC</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Neuberger Berman LLC</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Whole Foods Market Inc</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Amazon.com Inc</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mackey, John P</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bezos, Jeffrey P</category>
+        </item>
+        <item>
+            <title>As Uber Leaders Step Aside, Arianna Huffington&#x2019;s Influence Grows</title>
+            <link>https://www.nytimes.com/2017/06/17/business/uber-arianna-huffington-board.html?partner=rss&amp;emc=rss</link>
+            <guid isPermaLink="true">https://www.nytimes.com/2017/06/17/business/uber-arianna-huffington-board.html</guid>
+            <atom:link rel="standout" href="https://www.nytimes.com/2017/06/17/business/uber-arianna-huffington-board.html?partner=rss&amp;emc=rss"/>
+            <media:content url="https://static01.nyt.com/images/2017/06/19/business/19HUFFINGTON1/19HUFFINGTON1-moth.jpg" medium="image" height="151" width="151"/>
+            <media:description>Arianna Huffington, left center, with Bozoma A. Saint John, Uber&#x2019;s chief brand officer, in San Francisco. Ms. Huffington, a member of Uber&#x2019;s board, is playing a growing role in the company as it contends with a string of scandals.</media:description>
+            <media:credit>Jason Henry for The New York Times</media:credit>
+            <description>In the 14 months since she joined the board, Ms. Huffington has been a public voice for the start-up and a confidante to its chief executive.</description>
+            <dc:creator>KATIE BENNER and MIKE ISAAC</dc:creator>
+            <pubDate>Sat, 17 Jun 2017 20:27:09 GMT</pubDate>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Huffington Post</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Uber Technologies Inc</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Huffington, Arianna</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kalanick, Travis</category>
+        </item>
+        <item>
+            <title>Grim Echoes for Families: An Officer Shoots and a Jury Acquits</title>
+            <link>https://www.nytimes.com/2017/06/17/us/police-shootings-philando-castile.html?partner=rss&amp;emc=rss</link>
+            <guid isPermaLink="true">https://www.nytimes.com/2017/06/17/us/police-shootings-philando-castile.html</guid>
+            <atom:link rel="standout" href="https://www.nytimes.com/2017/06/17/us/police-shootings-philando-castile.html?partner=rss&amp;emc=rss"/>
+            <media:content url="https://static01.nyt.com/images/2017/06/18/us/18copshooting/18copshooting-moth.jpg" medium="image" height="151" width="151"/>
+            <media:description>Supporters of Philando Castile marched along University Avenue in St. Paul on Friday night after a vigil at Minnesota&#x2019;s State Capitol.</media:description>
+            <media:credit>Anthony Souffle/Star Tribune, via Associated Press</media:credit>
+            <description>A Minnesota police officer was acquitted in the shooting of Philando Castile, and some families saw a pattern. Few officers are charged, and fewer still convicted.</description>
+            <dc:creator>MITCH SMITH, YAMICHE ALCINDOR and JACK HEALY</dc:creator>
+            <pubDate>Sat, 17 Jun 2017 15:40:58 GMT</pubDate>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Police Brutality, Misconduct and Shootings</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Murders, Attempted Murders and Homicides</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Blacks</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Demonstrations, Protests and Riots</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Castile, Philando (1983-2016)</category>
+        </item>
+        <item>
+            <title>Minnesota Officer Acquitted in Killing of Philando Castile</title>
+            <link>https://www.nytimes.com/2017/06/16/us/police-shooting-trial-philando-castile.html?partner=rss&amp;emc=rss</link>
+            <guid isPermaLink="true">https://www.nytimes.com/2017/06/16/us/police-shooting-trial-philando-castile.html</guid>
+            <atom:link rel="standout" href="https://www.nytimes.com/2017/06/16/us/police-shooting-trial-philando-castile.html?partner=rss&amp;emc=rss"/>
+            <media:content url="https://static01.nyt.com/images/2017/06/17/us/17YANEZ-1/17YANEZ-1-moth.jpg" medium="image" height="151" width="151"/>
+            <media:description>Family and friends of Valerie Castile and Philando Castile, including John Thompson, center, wept as he walked out of the courthouse after Jeronimo Yanez was found not guilty on all counts in the shooting death of Philando Castile.</media:description>
+            <media:credit>Elizabeth Flores/Star Tribune, via Associated Press</media:credit>
+            <description>The officer fatally shot Philando Castile, a black motorist, during a traffic stop last summer. Mr. Castile&#x2019;s girlfriend live-streamed the aftermath.</description>
+            <dc:creator>MITCH SMITH</dc:creator>
+            <pubDate>Sat, 17 Jun 2017 02:02:46 GMT</pubDate>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Yanez, Jeronimo (1988- )</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Castile, Philando (1983-2016)</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Police Brutality, Misconduct and Shootings</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Murders, Attempted Murders and Homicides</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Blacks</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">St Paul (Minn)</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Falcon Heights (Minn)</category>
+        </item>
+        <item>
+            <title>Election Success for Emmanuel Macron May Mask Real Challenges</title>
+            <link>https://www.nytimes.com/2017/06/17/world/europe/france-election-emmanuel-macron.html?partner=rss&amp;emc=rss</link>
+            <guid isPermaLink="true">https://www.nytimes.com/2017/06/17/world/europe/france-election-emmanuel-macron.html</guid>
+            <atom:link rel="standout" href="https://www.nytimes.com/2017/06/17/world/europe/france-election-emmanuel-macron.html?partner=rss&amp;emc=rss"/>
+            <media:content url="https://static01.nyt.com/images/2017/06/18/world/18France1/18France1-moth.jpg" medium="image" height="151" width="151"/>
+            <media:description>Sarah El Ha&#xEF;ry, 28, a political newcomer, campaigning in Heric, France. The candidate hopes to draw on the good will for France&#x2019;s new president, Emmanuel Macron.</media:description>
+            <media:credit>Pierre Terdjman for The New York Times</media:credit>
+            <description>France&#x2019;s new president appears on the verge of getting a lot of support in Parliament, but he may not have a lot of time to win over the French people.</description>
+            <dc:creator>ALISSA J. RUBIN</dc:creator>
+            <pubDate>Sat, 17 Jun 2017 16:48:57 GMT</pubDate>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Macron, Emmanuel (1977- )</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Legislatures and Parliaments</category>
+        </item>
+        <item>
+            <title>U.S. Open Grass Is an Obstacle and a Potential Health Hazard</title>
+            <link>https://www.nytimes.com/2017/06/17/sports/golf/us-open-lyme-disease-jimmy-walker.html?partner=rss&amp;emc=rss</link>
+            <guid isPermaLink="true">https://www.nytimes.com/2017/06/17/sports/golf/us-open-lyme-disease-jimmy-walker.html</guid>
+            <atom:link rel="standout" href="https://www.nytimes.com/2017/06/17/sports/golf/us-open-lyme-disease-jimmy-walker.html?partner=rss&amp;emc=rss"/>
+            <media:content url="https://static01.nyt.com/images/2017/06/18/sports/18LYME-GOLF/18LYME-GOLF-moth.jpg" medium="image" height="151" width="151"/>
+            <media:description>From left, Jimmy Walker, Justin Thomas and Rickie Fowler at Erin Hills, which features thick fescue grass, a hospitable spot for bugs like ticks.</media:description>
+            <media:credit>Jamie Squire/Getty Images</media:credit>
+            <description>Erin Hills&#x2019;s thick fescue presents a challenge to players, but is also a hospitable spot for ticks, prompting concern about Lyme disease.</description>
+            <dc:creator>KAREN CROUSE</dc:creator>
+            <pubDate>Sat, 17 Jun 2017 09:00:22 GMT</pubDate>
+            <category domain="http://www.nytimes.com/namespaces/keywords/mdes">United States Open (Golf)</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Lyme Disease</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Walker, Jimmy (1979- )</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Golf</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Erin Hills (Erin, Wis)</category>
+        </item>
+        <item>
+            <title>13 Great Stories That Have Nothing to Do With Politics</title>
+            <link>https://www.nytimes.com/2017/06/16/briefing/13-great-stories-that-have-nothing-to-do-with-politics.html?partner=rss&amp;emc=rss</link>
+            <guid isPermaLink="true">https://www.nytimes.com/2017/06/16/briefing/13-great-stories-that-have-nothing-to-do-with-politics.html</guid>
+            <atom:link rel="standout" href="https://www.nytimes.com/2017/06/16/briefing/13-great-stories-that-have-nothing-to-do-with-politics.html?partner=rss&amp;emc=rss"/>
+            <media:content url="https://static01.nyt.com/images/2017/06/16/us/16picks/16picks-moth-v2.jpg" medium="image" height="151" width="151"/>
+            <media:description/>
+            <media:credit>Philadelphia Zoo, via Associated Press</media:credit>
+            <description>Take a break with stories about raccoon attacks, the business of waiting in line and yoga classes with cats.</description>
+            <dc:creator>ANNA DUBENKO and MICHELLE L. DOZOIS</dc:creator>
+            <pubDate>Fri, 16 Jun 2017 19:17:47 GMT</pubDate>
+        </item>
+        <item>
+            <title>58 Presumed Dead in London Tower Blaze, Police Say</title>
+            <link>https://www.nytimes.com/2017/06/17/world/europe/london-fire-grenfell-tower.html?partner=rss&amp;emc=rss</link>
+            <guid isPermaLink="true">https://www.nytimes.com/2017/06/17/world/europe/london-fire-grenfell-tower.html</guid>
+            <atom:link rel="standout" href="https://www.nytimes.com/2017/06/17/world/europe/london-fire-grenfell-tower.html?partner=rss&amp;emc=rss"/>
+            <media:content url="https://static01.nyt.com/images/2017/06/18/world/18LONDON2/18LONDON2-moth.jpg" medium="image" height="151" width="151"/>
+            <media:description>Residents near Grenfell Tower on Saturday. The police said that the death toll from the inferno at the tower in west London had risen to 58.</media:description>
+            <media:credit>Andy Rain/European Pressphoto Agency</media:credit>
+            <description>The increase in the toll came as the queen said Britain was trapped in a &#x201C;somber national mood&#x201D; after a series of tragedies.</description>
+            <dc:creator>PRASHANT S. RAO</dc:creator>
+            <pubDate>Sat, 17 Jun 2017 16:28:47 GMT</pubDate>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">London (England)</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Fires and Firefighters</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Grenfell Tower Fire (June, 2017)</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Grenfell Tower (London, England)</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
+        </item>
+        <item>
+            <title>7 U.S. Soldiers Wounded in Insider Attack in Afghanistan</title>
+            <link>https://www.nytimes.com/2017/06/17/world/asia/afghanistan-us-soldiers-insider-attack.html?partner=rss&amp;emc=rss</link>
+            <guid isPermaLink="true">https://www.nytimes.com/2017/06/17/world/asia/afghanistan-us-soldiers-insider-attack.html</guid>
+            <atom:link rel="standout" href="https://www.nytimes.com/2017/06/17/world/asia/afghanistan-us-soldiers-insider-attack.html?partner=rss&amp;emc=rss"/>
+            <description>The attack at Camp Shaheen in the north was the second such &#x201C;green on blue&#x201D; attack in a week.</description>
+            <dc:creator>ROD NORDLAND</dc:creator>
+            <pubDate>Sat, 17 Jun 2017 15:04:51 GMT</pubDate>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Afghanistan</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Terrorism</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
+        </item>
+        <item>
+            <title>Carrie Fisher Died From Sleep Apnea and Other Factors, Coroner Says</title>
+            <link>https://www.nytimes.com/2017/06/16/arts/carrie-fisher-death-sleep-apnea.html?partner=rss&amp;emc=rss</link>
+            <guid isPermaLink="true">https://www.nytimes.com/2017/06/16/arts/carrie-fisher-death-sleep-apnea.html</guid>
+            <atom:link rel="standout" href="https://www.nytimes.com/2017/06/16/arts/carrie-fisher-death-sleep-apnea.html?partner=rss&amp;emc=rss"/>
+            <media:content url="https://static01.nyt.com/images/2017/06/17/arts/17FISHER/17FISHER-moth.jpg" medium="image" height="151" width="151"/>
+            <media:description>Carrie Fisher in Los Angeles in 2011. The actor died after suffering a medical emergency on an international flight in December.</media:description>
+            <media:credit>Chris Pizzello/Associated Press</media:credit>
+            <description>The Los Angeles County coroner&#x2019;s office said investigators have not been able to determine an exact cause of death for the actor who died in December.</description>
+            <dc:creator>THE ASSOCIATED PRESS</dc:creator>
+            <pubDate>Sat, 17 Jun 2017 03:11:30 GMT</pubDate>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Apnea (Sleep Disorder)</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Fisher, Carrie</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Los Angeles (Calif)</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
+        </item>
+        <item>
+            <title>As Asian Scorchers Multiply, Records Fall and Attention Rises</title>
+            <link>https://www.nytimes.com/2017/06/17/world/asia/climate-change-asia-heat-records.html?partner=rss&amp;emc=rss</link>
+            <guid isPermaLink="true">https://www.nytimes.com/2017/06/17/world/asia/climate-change-asia-heat-records.html</guid>
+            <atom:link rel="standout" href="https://www.nytimes.com/2017/06/17/world/asia/climate-change-asia-heat-records.html?partner=rss&amp;emc=rss"/>
+            <media:content url="https://static01.nyt.com/images/2017/06/16/world/16asiaheat-1/16asiaheat-1-moth.jpg" medium="image" height="151" width="151"/>
+            <media:description>People cooling off in Quetta, Pakistan, this month. The remote town of Turbat, in the same province of Baluchistan, experienced one of the hottest days on record on May 28: 129.2 degrees Fahrenheit.</media:description>
+            <media:credit>Jamal Taraqai/European Pressphoto Agency</media:credit>
+            <description>Asia may have recently recorded its highest temperature ever: 129.2 degrees Fahrenheit. Interest in such records is growing alongside climate-change awareness.</description>
+            <dc:creator>SALMAN MASOOD and MIKE IVES</dc:creator>
+            <pubDate>Sat, 17 Jun 2017 11:04:11 GMT</pubDate>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Weather</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Pakistan</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">India</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">World Meteorological Organization</category>
+        </item>
+        <item>
+            <title>Merkel Says Pope Francis Urged Her to Fight for Paris Climate Accord</title>
+            <link>https://www.nytimes.com/2017/06/17/world/europe/merkel-pope-francis-paris-climate-accord.html?partner=rss&amp;emc=rss</link>
+            <guid isPermaLink="true">https://www.nytimes.com/2017/06/17/world/europe/merkel-pope-francis-paris-climate-accord.html</guid>
+            <atom:link rel="standout" href="https://www.nytimes.com/2017/06/17/world/europe/merkel-pope-francis-paris-climate-accord.html?partner=rss&amp;emc=rss"/>
+            <media:content url="https://static01.nyt.com/images/2017/06/18/world/18climate/18climate-moth.jpg" medium="image" height="151" width="151"/>
+            <media:description>Pope Francis receives Chancellor Angela Merkel of Germany, along with her husband Joachim Sauer, left, on Saturday during a private audience at the Vatican.</media:description>
+            <media:credit>Ettore Ferrari/European Pressphoto Agency</media:credit>
+            <description>Germany&#x2019;s chancellor also said that the pope shared her aim to &#x201C;bring down walls,&#x201D; not build them, an apparent reference to President Trump.</description>
+            <dc:creator>THE ASSOCIATED PRESS</dc:creator>
+            <pubDate>Sat, 17 Jun 2017 14:57:45 GMT</pubDate>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Merkel, Angela</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Francis</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">United Nations Framework Convention on Climate Change</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Group of Twenty</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Germany</category>
+        </item>
+        <item>
+            <title>Not Your Mother&#x2019;s Jersey Shore</title>
+            <link>https://www.nytimes.com/2017/06/16/realestate/hurricane-sandy-rebuilding-jersey-shore-towns.html?partner=rss&amp;emc=rss</link>
+            <guid isPermaLink="true">https://www.nytimes.com/2017/06/16/realestate/hurricane-sandy-rebuilding-jersey-shore-towns.html</guid>
+            <atom:link rel="standout" href="https://www.nytimes.com/2017/06/16/realestate/hurricane-sandy-rebuilding-jersey-shore-towns.html?partner=rss&amp;emc=rss"/>
+            <media:content url="https://static01.nyt.com/images/2017/06/18/realestate/18JERSEYSHORE1/18JERSEYSHORE1-moth.jpg" medium="image" height="151" width="151"/>
+            <media:description>Empty lots along the oceanfront in Mantoloking, N.J.</media:description>
+            <media:credit>Tony Cenicola/The New York Times</media:credit>
+            <description>Five years after Hurricane Sandy destroyed communities along the shore, some towns have used the rebuilding process as a time to reinvent themselves.</description>
+            <dc:creator>JILL P. CAPUZZO</dc:creator>
+            <pubDate>Fri, 16 Jun 2017 09:00:34 GMT</pubDate>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Real Estate and Housing (Residential)</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Hurricane Sandy (2012)</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Coast Erosion</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Long Beach Island (NJ)</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Mantoloking (NJ)</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ortley Beach (NJ)</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Toms River (NJ)</category>
+        </item>
+        <item>
+            <title>Can Animals Predict Earthquakes? Italian Farm Acts as a Lab to Find Out</title>
+            <link>https://www.nytimes.com/2017/06/17/world/europe/italy-earthquakes-animals-predicting-natural-disasters.html?partner=rss&amp;emc=rss</link>
+            <guid isPermaLink="true">https://www.nytimes.com/2017/06/17/world/europe/italy-earthquakes-animals-predicting-natural-disasters.html</guid>
+            <atom:link rel="standout" href="https://www.nytimes.com/2017/06/17/world/europe/italy-earthquakes-animals-predicting-natural-disasters.html?partner=rss&amp;emc=rss"/>
+            <media:content url="https://static01.nyt.com/images/2017/06/02/world/00quakeanimals1/00quakeanimals1-moth.jpg" medium="image" height="151" width="151"/>
+            <media:description>Florindo Angeli, right, and his son removing a tag from a sheep at their farm in Pieve Torina, Italy, in April. Animals at the farm had worn the solar-powered tags for months as part of an experiment to monitor their behavior before earthquakes.</media:description>
+            <media:credit>Nadia Shira Cohen for The New York Times</media:credit>
+            <description>A scientist hopes to learn, by tagging animals in Italy, whether they could be used as an effective warning system before an earthquake.</description>
+            <dc:creator>ELISABETTA POVOLEDO</dc:creator>
+            <pubDate>Sat, 17 Jun 2017 07:28:57 GMT</pubDate>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Animals</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Agriculture and Farming</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Earthquakes</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Livestock</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Research</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Planck, Max, Institute for Ornithology</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Italy</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">vis-photo</category>
+        </item>
+        <item>
+            <title>That Decisive Moment: Mahler, Transformed: This Week&#x2019;s 8 Best Classical Music Moments</title>
+            <link>https://www.nytimes.com/2017/06/16/arts/music/mahler-transformed-this-weeks-8-best-classical-music-moments.html?partner=rss&amp;emc=rss</link>
+            <guid isPermaLink="true">https://www.nytimes.com/2017/06/16/arts/music/mahler-transformed-this-weeks-8-best-classical-music-moments.html</guid>
+            <atom:link rel="standout" href="https://www.nytimes.com/2017/06/16/arts/music/mahler-transformed-this-weeks-8-best-classical-music-moments.html?partner=rss&amp;emc=rss"/>
+            <media:content url="https://static01.nyt.com/images/2017/06/16/arts/17moments1/17moments1-moth.jpg" medium="image" height="151" width="151"/>
+            <media:description/>
+            <media:credit>Michelle V. Agins/The New York Times</media:credit>
+            <description>"Swan Lake," the New York Philharmonic and an operatic "Angels in America" were among the highlights.</description>
+            <dc:creator/>
+            <pubDate>Fri, 16 Jun 2017 21:35:20 GMT</pubDate>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Classical Music</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">New York Philharmonic</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mahler, Gustav</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Mivos Quartet</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bowman, Benjamin (1979- )</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Boston Early Music Festival</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">New York City Opera</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_keyword">Chelsea Music Festival</category>
+        </item>
+        <item>
+            <title>Iran Bans Zumba, and Its Fans Fume</title>
+            <link>https://www.nytimes.com/2017/06/17/world/middleeast/iran-zumba-haram.html?partner=rss&amp;emc=rss</link>
+            <guid isPermaLink="true">https://www.nytimes.com/2017/06/17/world/middleeast/iran-zumba-haram.html</guid>
+            <atom:link rel="standout" href="https://www.nytimes.com/2017/06/17/world/middleeast/iran-zumba-haram.html?partner=rss&amp;emc=rss"/>
+            <media:content url="https://static01.nyt.com/images/2017/06/16/world/18IRAN-ZUMBA-promo/18IRAN-ZUMBA-promo-moth.jpg" medium="image" height="151" width="151"/>
+            <media:description>Zumba-themed wristbands.</media:description>
+            <media:credit>Emily Berl for The New York Times</media:credit>
+            <description>An Iranian government institution promoting sports and a healthy lifestyle effectively banned Zumba classes for being contrary to Islamic precepts.</description>
+            <dc:creator>THOMAS ERDBRINK</dc:creator>
+            <pubDate>Sat, 17 Jun 2017 09:51:07 GMT</pubDate>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Dancing</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Exercise</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Tehran (Iran)</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Embargoes and Sanctions</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Rouhani, Hassan</category>
+        </item>
+        <item>
+            <title>Le Pen Loses Luster, Signaling Far Right&#x2019;s Retreat in France, and Maybe Beyond</title>
+            <link>https://www.nytimes.com/2017/06/16/world/europe/marine-le-pen-france.html?partner=rss&amp;emc=rss</link>
+            <guid isPermaLink="true">https://www.nytimes.com/2017/06/16/world/europe/marine-le-pen-france.html</guid>
+            <atom:link rel="standout" href="https://www.nytimes.com/2017/06/16/world/europe/marine-le-pen-france.html?partner=rss&amp;emc=rss"/>
+            <media:content url="https://static01.nyt.com/images/2017/06/16/world/xxfront1/xxfront1-moth.jpg" medium="image" height="151" width="151"/>
+            <media:description>Marine Le Pen, the leader of the far-right National Front party in France, speaking at a rally in Calais last week before the first round of parliamentary elections.</media:description>
+            <media:credit>Philippe Huguen/Agence France-Presse &#x2014; Getty Images</media:credit>
+            <description>After Marine Le Pen was crushed in the presidential election, her party is faring dismally in legislative elections and squabbling over strategy.</description>
+            <dc:creator>ADAM NOSSITER</dc:creator>
+            <pubDate>Fri, 16 Jun 2017 13:15:17 GMT</pubDate>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Voting and Voters</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Legislatures and Parliaments</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">National Front (France)</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Le Pen, Marine</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
+        </item>
+        <item>
+            <title>On Golf: Golfer Known as &#x2018;Beef&#x2019; Has PB&amp;J and No Complaints</title>
+            <link>https://www.nytimes.com/2017/06/16/sports/golf/us-open-andrew-beef-johnston.html?partner=rss&amp;emc=rss</link>
+            <guid isPermaLink="true">https://www.nytimes.com/2017/06/16/sports/golf/us-open-andrew-beef-johnston.html</guid>
+            <atom:link rel="standout" href="https://www.nytimes.com/2017/06/16/sports/golf/us-open-andrew-beef-johnston.html?partner=rss&amp;emc=rss"/>
+            <media:content url="https://static01.nyt.com/images/2017/06/17/sports/17-Y-CROUSE/17-Y-CROUSE-moth.jpg" medium="image" height="151" width="151"/>
+            <media:description>Andrew Johnston, 28, on the ninth hole on Friday. Johnston, who brings a childlike joy to the game, is part of an Arby&#x2019;s advertising campaign.</media:description>
+            <media:credit>Chris Carlson/Associated Press</media:credit>
+            <description>Andrew Johnston, who was two under par after two rounds at the United States Open, has endeared himself to fans with his good-natured personality.</description>
+            <dc:creator>KAREN CROUSE</dc:creator>
+            <pubDate>Fri, 16 Jun 2017 23:42:08 GMT</pubDate>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Golf</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Open (Golf)</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Johnston, Andrew (1989- )</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Arby's Inc</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Erin Hills (Erin, Wis)</category>
+        </item>
+        <item>
+            <title>Two Protesters Disrupt &#x2018;Julius Caesar&#x2019; in Central Park</title>
+            <link>https://www.nytimes.com/2017/06/17/theater/julius-caesar-central-park-trump-protesters.html?partner=rss&amp;emc=rss</link>
+            <guid isPermaLink="true">https://www.nytimes.com/2017/06/17/theater/julius-caesar-central-park-trump-protesters.html</guid>
+            <atom:link rel="standout" href="https://www.nytimes.com/2017/06/17/theater/julius-caesar-central-park-trump-protesters.html?partner=rss&amp;emc=rss"/>
+            <media:content url="https://static01.nyt.com/images/2017/06/17/theater/17xp-cesar_web1/17xp-cesar_web1-moth.jpg" medium="image" height="151" width="151"/>
+            <media:description>People arrived for Shakespeare in the Park&#x2019;s production of &#x201C;Julius Caesar&#x201D; at the Delacorte Theater in Central Park on Monday.</media:description>
+            <media:credit>Bryan R. Smith/Agence France-Presse &#x2014; Getty Images</media:credit>
+            <description>A production of the Shakespeare play was interrupted by protesters objecting to a scene where a character resembling President Trump is murdered.</description>
+            <dc:creator>MICHAEL PAULSON</dc:creator>
+            <pubDate>Sat, 17 Jun 2017 04:15:36 GMT</pubDate>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Shakespeare in the Park</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Public Theater</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Shakespeare, William</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Posobiec, Jack</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Theater</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Delacorte Theater</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Central Park (Manhattan, NY)</category>
+        </item>
+        <item>
+            <title>The Los Angeles Philharmonic Lost Its Leader. Can It Stay on Top?</title>
+            <link>https://www.nytimes.com/2017/06/15/arts/music/the-los-angeles-philharmonic-la-phil-ost-its-leader-deborah-borda-can-it-stay-on-top.html?partner=rss&amp;emc=rss</link>
+            <guid isPermaLink="true">https://www.nytimes.com/2017/06/15/arts/music/the-los-angeles-philharmonic-la-phil-ost-its-leader-deborah-borda-can-it-stay-on-top.html</guid>
+            <atom:link rel="standout" href="https://www.nytimes.com/2017/06/15/arts/music/the-los-angeles-philharmonic-la-phil-ost-its-leader-deborah-borda-can-it-stay-on-top.html?partner=rss&amp;emc=rss"/>
+            <media:content url="https://static01.nyt.com/images/2017/06/18/arts/18LAPHIL1/18LAPHIL1-moth.jpg" medium="image" height="151" width="151"/>
+            <media:description>The Walt Disney Concert Hall, home to the Los Angeles Philharmonic; the orchestra, well financed and with a series of daring programs, is regrouping as its chief executive, Deborah Borda, departs for New York.</media:description>
+            <media:credit>Emily Berl for The New York Times</media:credit>
+            <description>Deborah Borda, who helped make the orchestra the envy of the music world, left for the New York Philharmonic. But nobody in Los Angeles seems worried.</description>
+            <dc:creator>MICHAEL COOPER</dc:creator>
+            <pubDate>Thu, 15 Jun 2017 14:29:14 GMT</pubDate>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Classical Music</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Appointments and Executive Changes</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Los Angeles Philharmonic</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Borda, Deborah</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Dudamel, Gustavo</category>
+        </item>
+        <item>
+            <title>Brooklyn, as Hollywood Never Sees It</title>
+            <link>https://www.nytimes.com/2017/06/16/movies/jim-mckay-brooklyn-en-el-septimo-dia-on-the-seventh-day.html?partner=rss&amp;emc=rss</link>
+            <guid isPermaLink="true">https://www.nytimes.com/2017/06/16/movies/jim-mckay-brooklyn-en-el-septimo-dia-on-the-seventh-day.html</guid>
+            <atom:link rel="standout" href="https://www.nytimes.com/2017/06/16/movies/jim-mckay-brooklyn-en-el-septimo-dia-on-the-seventh-day.html?partner=rss&amp;emc=rss"/>
+            <media:content url="https://static01.nyt.com/images/2017/06/17/arts/17JIM-MCKAY1/17JIM-MCKAY1-moth.jpg" medium="image" height="151" width="151"/>
+            <media:description>The director Jim McKay, who is unveiling his first feature film in 12 years, &#x201C;En El S&#xE9;ptimo D&#xED;a&#x201D; (&#x201C;On the Seventh Day&#x201D;).</media:description>
+            <media:credit>Todd Heisler/The New York Times</media:credit>
+            <description>Jim McKay&#x2019;s new film, about bicycle delivery men and soccer in Carroll Gardens and Sunset Park, is having its premiere at BAMcinemaFest.</description>
+            <dc:creator>MIKE HALE</dc:creator>
+            <pubDate>Fri, 16 Jun 2017 20:24:03 GMT</pubDate>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Movies</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">McKay, Jim (1962- )</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Brooklyn Academy of Music</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Our Song (Movie)</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">En el Septimo Dia (Movie)</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Brooklyn (NYC)</category>
+        </item>
+        <item>
+            <title>Update: How to Travel to Cuba Now</title>
+            <link>https://www.nytimes.com/2017/06/12/travel/cuba-travel-tips-trump-administration.html?partner=rss&amp;emc=rss</link>
+            <guid isPermaLink="true">https://www.nytimes.com/2017/06/12/travel/cuba-travel-tips-trump-administration.html</guid>
+            <atom:link rel="standout" href="https://www.nytimes.com/2017/06/12/travel/cuba-travel-tips-trump-administration.html?partner=rss&amp;emc=rss"/>
+            <media:content url="https://static01.nyt.com/images/2017/06/13/travel/13cuba/13cuba-moth.jpg" medium="image" height="151" width="151"/>
+            <media:description/>
+            <media:credit>Robert Rausch for The New York Times</media:credit>
+            <description>The Trump administration may impose stricter rules for visiting Cuba. Here&#x2019;s how those could affect travelers.</description>
+            <dc:creator>VICTORIA BURNETT</dc:creator>
+            <pubDate>Fri, 16 Jun 2017 21:29:18 GMT</pubDate>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Cuba</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Travel and Vacations</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/mdes">United States International Relations</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/des">Embargoes and Sanctions</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Hotels and Travel Lodgings</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/mdes">United States Politics and Government</category>
+            <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Obama, Barack</category>
+        </item>
+    </channel>
+</rss>

@@ -23,6 +23,7 @@ ext {
     PICASSO_VERSION = '2.5.2'
     RETROFIT_VERSION = '2.3.0'
     SQLITE_JDBC_VERSION = '3.18.0'
+    MOCK_WEB_SERVER_VERSION = '2.7.5'
 }
 
 android {
@@ -76,14 +77,16 @@ dependencies {
     kapt "io.requery:requery-processor:$REQUERY_VERSION"
 
     testCompile "junit:junit:$JUNIT_VERSION"
-        testCompile ("com.nhaarman:mockito-kotlin-kt1.1:$MOCKITO_KOTLIN_VERSION", {
+
+    testCompile ("com.nhaarman:mockito-kotlin-kt1.1:$MOCKITO_KOTLIN_VERSION", {
         exclude group: 'org.jetbrains.kotlin', module: 'kotlin-reflect'
         exclude group: 'org.jetbrains.kotlin', module: 'kotlin-stdlib'
-
     })
 
     testCompile "org.xerial:sqlite-jdbc:${SQLITE_JDBC_VERSION}"
-
+    testCompile ("com.squareup.okhttp:mockwebserver:${MOCK_WEB_SERVER_VERSION}", {
+        exclude group: 'com.squareup.okio', module: 'okio'
+    })
     kaptTest "com.google.dagger:dagger-compiler:${DAGGER_VERSION}"
 
 }

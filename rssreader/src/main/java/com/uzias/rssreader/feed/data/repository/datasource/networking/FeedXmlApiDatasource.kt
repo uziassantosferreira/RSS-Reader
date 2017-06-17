@@ -5,7 +5,7 @@ import com.uzias.rssreader.feed.data.repository.datasource.networking.mapper.Rss
 import com.uzias.rssreader.feed.domain.model.Rss
 import io.reactivex.Observable
 
-class FeedXmlApiDatasource(val feedXmlApi: FeedXmlApi) : FeedDatasource {
+open class FeedXmlApiDatasource(val feedXmlApi: FeedXmlApi) : FeedDatasource {
 
     override fun getRss(): Observable<Rss> = Observable.empty()
 
