@@ -15,7 +15,6 @@ class RequeryDatasourceImpl(val reactiveEntityStore: KotlinReactiveEntityStore<P
     : FeedDatasource {
 
     override fun save(rss: Rss): Observable<Rss> {
-        val items = mutableListOf<RequeryItem>()
         val requeryRss = RequeryRssEntity()
         requeryRss.url = rss.url
         reactiveEntityStore.insert(requeryRss).blockingGet()

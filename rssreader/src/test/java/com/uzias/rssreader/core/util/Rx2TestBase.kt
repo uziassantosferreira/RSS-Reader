@@ -1,4 +1,4 @@
-package com.uzias.rssreader
+package com.uzias.rssreader.core.util
 
 import io.reactivex.android.plugins.RxAndroidPlugins
 import io.reactivex.plugins.RxJavaPlugins

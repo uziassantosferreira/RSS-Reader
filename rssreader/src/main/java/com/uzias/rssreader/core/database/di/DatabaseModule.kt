@@ -14,17 +14,17 @@ import javax.inject.Singleton
 
 @Module
 @Singleton
-class DatabaseModule {
+open class DatabaseModule {
 
     @Provides
-    fun provideDatabase(database: DatabaseSource): KotlinReactiveEntityStore<Persistable>
+    open fun provideDatabase(database: DatabaseSource): KotlinReactiveEntityStore<Persistable>
             = KotlinReactiveEntityStore(KotlinEntityDataStore(database.configuration))
 
     @Provides
     fun provideModels(): EntityModel = Models.DEFAULT
 
     @Provides
-    fun provideDatabaseSource(application: RSSReaderApplication,
+    open fun provideDatabaseSource(application: RSSReaderApplication,
                                        entityModel: EntityModel): DatabaseSource {
         val source = DatabaseSource(application, entityModel, 1)
         if (BuildConfig.DEBUG) {

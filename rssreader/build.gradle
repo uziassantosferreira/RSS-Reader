@@ -22,7 +22,7 @@ ext {
     RETROFIT_RSS_CONVERTER = '0.0.2'
     PICASSO_VERSION = '2.5.2'
     RETROFIT_VERSION = '2.3.0'
-
+    SQLITE_JDBC_VERSION = '3.18.0'
 }
 
 android {
@@ -81,6 +81,10 @@ dependencies {
         exclude group: 'org.jetbrains.kotlin', module: 'kotlin-stdlib'
 
     })
+
+    testCompile "org.xerial:sqlite-jdbc:${SQLITE_JDBC_VERSION}"
+
+    kaptTest "com.google.dagger:dagger-compiler:${DAGGER_VERSION}"
 
 }
 

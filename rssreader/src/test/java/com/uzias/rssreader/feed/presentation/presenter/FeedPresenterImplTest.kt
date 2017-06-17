@@ -1,7 +1,7 @@
 package com.uzias.rssreader.feed.presentation.presenter
 
 import com.nhaarman.mockito_kotlin.*
-import com.uzias.rssreader.Rx2TestBase
+import com.uzias.rssreader.core.util.Rx2TestBase
 import com.uzias.rssreader.core.domain.InvalidData
 import com.uzias.rssreader.feed.domain.model.Rss
 import com.uzias.rssreader.feed.domain.usecase.AddRss

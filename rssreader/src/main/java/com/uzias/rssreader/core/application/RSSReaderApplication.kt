@@ -6,7 +6,7 @@ import com.uzias.rssreader.core.di.AppModule
 import com.uzias.rssreader.core.di.DaggerAppComponent
 import com.uzias.rssreader.core.networking.di.NetworkModule
 
-class RSSReaderApplication : Application() {
+open class RSSReaderApplication : Application() {
 
     val component: AppComponent by lazy {
         DaggerAppComponent
