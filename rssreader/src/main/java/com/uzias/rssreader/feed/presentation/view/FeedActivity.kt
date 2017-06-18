@@ -21,16 +21,16 @@ import kotlinx.android.synthetic.main.activity_feed.*
 import kotlinx.android.synthetic.main.custom_dialog_input_url.view.*
 import kotlinx.android.synthetic.main.toolbar.*
 import javax.inject.Inject
-import android.app.ProgressDialog
 import com.uzias.rssreader.feed.presentation.ItemListener
 import com.uzias.rssreader.feed.presentation.model.PresentationItem
 import android.content.Intent
 import android.net.Uri
+import com.roger.catloadinglibrary.CatLoadingView
 
 
 class FeedActivity : BaseActivity(), FeedView, RssListener, ItemListener {
 
-    private lateinit var progress: ProgressDialog
+    private lateinit var progress: CatLoadingView
 
     private val drawerToggle: ActionBarDrawerToggle by lazy {
         ActionBarDrawerToggle(this, drawerlayout,
@@ -65,6 +65,8 @@ class FeedActivity : BaseActivity(), FeedView, RssListener, ItemListener {
         recyclerview_items.getRecyclerView().layoutManager = LinearLayoutManager(this)
         recyclerview_items.setState(RecyclerViewWithFeedback.State.FILLED)
         swiperefreshlayout.setOnRefreshListener { feedPresenter.refreshFeedActioned() }
+        progress = CatLoadingView()
+        progress.setText(getString(R.string.commons_loading))
 
     }
 
@@ -79,8 +81,7 @@ class FeedActivity : BaseActivity(), FeedView, RssListener, ItemListener {
     override fun getPresenter(): BasePresenter = feedPresenter
 
     override fun showLoading() {
-        progress = ProgressDialog.show(this, getString(R.string.app_name),
-                getString(R.string.commons_loading), true)
+        progress.show(supportFragmentManager, "")
     }
 
     override fun dismissLoading() {

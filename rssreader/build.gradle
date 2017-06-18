@@ -24,6 +24,7 @@ ext {
     RETROFIT_VERSION = '2.3.0'
     SQLITE_JDBC_VERSION = '3.18.0'
     MOCK_WEB_SERVER_VERSION = '2.7.5'
+    CATLOADING_VERSION = '1.0.3'
 }
 
 android {
@@ -75,6 +76,9 @@ dependencies {
     compile "io.requery:requery-kotlin:$REQUERY_VERSION"
     compile "io.requery:requery-android:$REQUERY_VERSION"
     kapt "io.requery:requery-processor:$REQUERY_VERSION"
+
+    compile "com.roger.catloadinglibrary:catloadinglibrary:$CATLOADING_VERSION"
+
 
     testCompile "junit:junit:$JUNIT_VERSION"
 
