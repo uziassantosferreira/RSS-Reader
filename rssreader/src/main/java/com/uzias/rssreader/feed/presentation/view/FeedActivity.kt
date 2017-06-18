@@ -23,8 +23,9 @@ import kotlinx.android.synthetic.main.toolbar.*
 import javax.inject.Inject
 import com.uzias.rssreader.feed.presentation.ItemListener
 import com.uzias.rssreader.feed.presentation.model.PresentationItem
-import android.content.Intent
 import android.net.Uri
+import android.support.customtabs.CustomTabsIntent
+import android.support.v4.content.ContextCompat
 import com.roger.catloadinglibrary.CatLoadingView
 
 
@@ -128,9 +129,10 @@ class FeedActivity : BaseActivity(), FeedView, RssListener, ItemListener {
     }
 
     override fun clicked(presentationItem: PresentationItem) {
-        val uri = Uri.parse(presentationItem.url)
-        val intent = Intent(Intent.ACTION_VIEW, uri)
-        startActivity(intent)
+        val builder = CustomTabsIntent.Builder()
+        builder.setToolbarColor(ContextCompat.getColor(this, R.color.colorPrimary))
+        val customTabsIntent = builder.build()
+        customTabsIntent.launchUrl(this, Uri.parse(presentationItem.url))
     }
 
     override fun dismissSwipeLoading() {

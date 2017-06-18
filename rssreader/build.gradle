@@ -12,7 +12,7 @@ ext {
     ANDROID_APPLICATION_ID = 'com.uzias.rssreader'
     ANDROID_TEST_INSTRUMENTATION_RUNNER = 'android.support.test.runner.AndroidJUnitRunner'
 
-    SUPPORT_LIBS_VERSION = '25.3.1'
+    SUPPORT_LIBS_VERSION = '25.4.0'
     ESPRESSO_CORE_VERSION = '2.2.2'
     JUNIT_VERSION = '4.12'
     RX_VERSION = '2.0.1'
@@ -58,6 +58,7 @@ dependencies {
 
     compile "com.android.support:appcompat-v7:$SUPPORT_LIBS_VERSION"
     compile "com.android.support:design:$SUPPORT_LIBS_VERSION"
+    compile "com.android.support:customtabs:$SUPPORT_LIBS_VERSION"
 
     compile "com.squareup.picasso:picasso:$PICASSO_VERSION"
 
