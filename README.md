@@ -9,6 +9,7 @@ Supported languages:  <img src="showcase/brazilian_flag.png" width=20> <img src=
 2. [Architecture](#architecture)
    * [Clean Architecture](#clean-architecture)
    * [Design Patterns](#design-patterns)
+   * [Quality Assurance](#tests)
    * [Frameworks](#frameworks)
 3. [Application Setup](#setup)   
 4. [License](#license)
@@ -21,7 +22,7 @@ Supported languages:  <img src="showcase/brazilian_flag.png" width=20> <img src=
 <a name="overview" />
 
 ## Overview
-Create an application capable to read urls rss, displaying these information in an application of type master-details. The requirements raised for this assignment shall test concepts of:
+Create an application capable to read RSS url, displaying these information in an application of type master-details. The requirements raised for this assignment shall test concepts of:
  1. Architectural design for Android Applications;
  2. Ability to communicate with complex end-points, parsing XML responses and update UI;
  3. Data persistence and database manipulation;
@@ -60,9 +61,14 @@ Create an application capable to read urls rss, displaying these information in 
      <td align="justify">Add support for portuguese language</td>
   </tr>
   <tr>
+    <td>REQ005</td>
+     <td align="justify">Open custom navigation showing details feed</td>
+     <td align="justify">Open custom tab when you click link</td>
+  </tr>
+  <tr>
     <td>REQ006</td>
-     <td align="justify">Open navigation to show details feed</td>
-     <td align="justify">Open navigation when you click link</td>
+     <td align="justify">Refresh items/td>
+     <td align="justify"> when you execute pull to refresh the app download again items</td>
   </tr>
 </table>
 
@@ -73,16 +79,18 @@ Create an application capable to read urls rss, displaying these information in 
 <p align="center">
   <img src="showcase/showcase_1.png" align="center" width=150>
   <img src="showcase/showcase_2.png" align="center" width=150>
+  <img src="showcase/showcase_3.png" align="center" width=150>
 <br /><br />
-<img src="showcase/showcase_3.png" align="center" width=150>
 <img src="showcase/showcase_4.png" align="center" width=150>
+<img src="showcase/showcase_5.png" align="center" width=150>
+<img src="showcase/showcase_6.png" align="center" width=150>
 </p>
 
 ## Demonstration
 
 <p align="center">
   <img src="showcase/app.gif" align="center"><br /><br />
-    <b>Figure 02:</b> sample demonstration of app
+    <b>Figure 01:</b> sample demonstration of app
  </p>
 
 <a name="architecture" />
@@ -110,6 +118,18 @@ Architectural reactive approach
  - **Delegate**: this pattern is used in more than one place in the Application, for instance, with Postman and Router classes. The idea is to decouple classes that play distinct roles in the app - as the ones responsible for network communication for instance. That way, if any maintenance is required on them it is not passed beyond the class that gather all calls;
  - **Factory**: the application uses Factory Pattern on default Dagger2 implementation as well as to acquire End Points references for instance;
 
+ <a name="tests" />
+
+ ## Quality Assurance
+
+ <p align="center">
+   <img src="test/test.png" align="center">
+ </p>
+
+ One of the most importants gains that the Clean architecture pattern brings to the project is the fact that all business logic gets isolated on Presenter Layer, Domain layer, Data layer, it means, all code worthy to be tested is well encapsulated on classes with low dependency on OS components. This pattern alied with a Dependency Injection Container and Mock Frameworks (such as [Mockito](http://site.mockito.org/)  allows the developer to take full advantage of Unit Tests.   
+
+
+
 <a name="frameworks" />
 
 ## Frameworks
@@ -127,7 +147,7 @@ Architectural reactive approach
  - [**Dagger 2**](https://google.github.io/dagger/): a dependency Injector for Android and Java, used to grant one of the S.O.L.I.D. principles for OO programming (Dependency Inversion Principle). Besides allowing the high level class to not depend upon low level ones, it makes Unit Test easier to perform with the help of a mocking framework i.e. Mockito;
  - **Other**:
      - [**RetrofitRssConverterFactory**](https://github.com/faruktoptas/RetrofitRssConverterFactory): _"(...) A Retrofit2 converter which parses Rss feeds...."_
-     - - [**Mockito-Kotlin**](https://github.com/nhaarman/mockito-kotlin): _"(...) A small library that provides helper functions to work with Mockito in Kotlin...."_
+     -  [**Mockito-Kotlin**](https://github.com/nhaarman/mockito-kotlin): _"(...) A small library that provides helper functions to work with Mockito in Kotlin...."_
 
 
 <a name="setup" />
