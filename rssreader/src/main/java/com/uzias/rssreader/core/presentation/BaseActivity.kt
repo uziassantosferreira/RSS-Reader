@@ -11,19 +11,15 @@ abstract class BaseActivity : AppCompatActivity(), BaseView {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         injectDependencies()
+        bindPresenter()
     }
 
     fun getAppComponent() : AppComponent {
         return (application as RSSReaderApplication).component
     }
 
-    override fun onStart() {
-        super.onStart()
-        bindPresenter()
-    }
-
-    override fun onStop() {
-        super.onStop()
+    override fun onDestroy() {
+        super.onDestroy()
         unbindPresenter()
     }
 
