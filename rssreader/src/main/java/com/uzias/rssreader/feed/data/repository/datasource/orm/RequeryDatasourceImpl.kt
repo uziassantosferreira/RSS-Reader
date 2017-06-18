@@ -7,6 +7,7 @@ import com.uzias.rssreader.feed.data.repository.datasource.orm.model.RequeryItem
 import com.uzias.rssreader.feed.data.repository.datasource.orm.model.RequeryRss
 import com.uzias.rssreader.feed.data.repository.datasource.orm.model.RequeryRssEntity
 import com.uzias.rssreader.feed.domain.model.Rss
+import io.reactivex.Completable
 import io.reactivex.Observable
 import io.requery.Persistable
 import io.requery.reactivex.KotlinReactiveEntityStore
@@ -42,5 +43,12 @@ class RequeryDatasourceImpl(val reactiveEntityStore: KotlinReactiveEntityStore<P
             .get()
             .observable()
             .map{RequeryRssMapper.transformFrom(it)}
+
+    override fun deleteRss(url: String): Completable {
+        reactiveEntityStore.delete(RequeryRss::class)
+                .where(RequeryRssEntity.URL.eq(url))
+                .get().value()
+        return Completable.complete()
+    }
 
 }

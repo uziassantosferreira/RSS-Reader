@@ -9,6 +9,7 @@ import com.uzias.rssreader.feed.data.repository.datasource.orm.model.RequeryItem
 import com.uzias.rssreader.feed.data.repository.datasource.orm.model.RequeryRssEntity
 import com.uzias.rssreader.feed.di.DaggerFeedComponentTest
 import com.uzias.rssreader.feed.domain.model.Rss
+import com.uzias.rssreader.feed.domain.model.RssHelper
 import com.uzias.rssreader.feed.domain.model.RssHelper.Companion.mockRss
 import io.reactivex.observers.TestObserver
 import org.junit.Before
@@ -101,4 +102,12 @@ class RequeryDatasourceImplTest {
         testObserver.assertNoErrors()
     }
 
+    @Test
+    fun successful_delete_rss() {
+        val testObserver = TestObserver.create<Rss>()
+        datasource.deleteRss(RssHelper.MOCK_URL)
+                .subscribe(testObserver)
+        testObserver.assertComplete()
+        testObserver.assertNoErrors()
+    }
 }

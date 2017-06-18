@@ -6,7 +6,7 @@ class RssHelper {
 
     companion object {
 
-        private val MOCK_URL = "URL"
+        val MOCK_URL = "URL"
 
         fun mockRss() = Rss(url = MOCK_URL, items = mutableListOf(mockItem(), mockItem()))
 

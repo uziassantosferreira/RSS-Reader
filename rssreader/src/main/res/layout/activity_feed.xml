@@ -20,10 +20,18 @@
             android:layout_width="match_parent"
             android:layout_height="match_parent">
 
-            <com.uzias.rssreader.core.presentation.RecyclerViewWithFeedback
-                android:id="@+id/recyclerview_items"
+            <android.support.v4.widget.SwipeRefreshLayout
+                xmlns:android="http://schemas.android.com/apk/res/android"
+                android:id="@+id/swiperefreshlayout"
                 android:layout_width="match_parent"
-                android:layout_height="match_parent"/>
+                android:layout_height="match_parent">
+
+                <com.uzias.rssreader.core.presentation.RecyclerViewWithFeedback
+                    android:id="@+id/recyclerview_items"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"/>
+
+            </android.support.v4.widget.SwipeRefreshLayout>
 
             <android.support.design.widget.FloatingActionButton
                 android:id="@+id/button_add"

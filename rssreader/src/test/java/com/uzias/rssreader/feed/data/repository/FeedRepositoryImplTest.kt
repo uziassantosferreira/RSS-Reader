@@ -43,4 +43,10 @@ class FeedRepositoryImplTest {
         verify(feedApiDatasource).getRssByUrl(InvalidData.UNINITIALIZED.getString())
     }
 
+    @Test
+    fun must_call_orm_delete_rss() {
+        repository.deleteRss(InvalidData.UNINITIALIZED.getString())
+        verify(ormDatasource).deleteRss(InvalidData.UNINITIALIZED.getString())
+    }
+
 }

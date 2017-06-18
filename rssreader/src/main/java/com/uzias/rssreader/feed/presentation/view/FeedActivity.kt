@@ -64,6 +64,7 @@ class FeedActivity : BaseActivity(), FeedView, RssListener, ItemListener {
         recyclerview_items.getRecyclerView().adapter = itemAdapter
         recyclerview_items.getRecyclerView().layoutManager = LinearLayoutManager(this)
         recyclerview_items.setState(RecyclerViewWithFeedback.State.FILLED)
+        swiperefreshlayout.setOnRefreshListener { feedPresenter.refreshFeedActioned() }
 
     }
 
@@ -117,6 +118,7 @@ class FeedActivity : BaseActivity(), FeedView, RssListener, ItemListener {
     }
 
     override fun clicked(presentationRss: PresentationRss) {
+        feedPresenter.setPresentationSelected(presentationRss)
         itemAdapter.clear()
         drawerlayout.closeDrawers()
         presentationRss.items.forEach {
@@ -130,5 +132,18 @@ class FeedActivity : BaseActivity(), FeedView, RssListener, ItemListener {
         startActivity(intent)
     }
 
+    override fun dismissSwipeLoading() {
+        if (swiperefreshlayout.isRefreshing){
+            swiperefreshlayout.isRefreshing = false
+        }
+    }
+
+    override fun removeRss(presentationRssSelected: PresentationRss) {
+        rssAdapter.removeItem(item = presentationRssSelected)
+    }
+
+    override fun setSelectedRss(it: PresentationRss) {
+        clicked(it)
+    }
 
 }

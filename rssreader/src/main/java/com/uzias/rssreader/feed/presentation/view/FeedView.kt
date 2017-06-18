@@ -9,4 +9,10 @@ interface FeedView : BaseView {
 
     fun addRss(presentationRss: PresentationRss)
 
+    fun dismissSwipeLoading()
+
+    fun removeRss(presentationRssSelected: PresentationRss)
+
+    fun setSelectedRss(it: PresentationRss)
+
 }

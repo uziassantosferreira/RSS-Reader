@@ -6,10 +6,7 @@ import com.uzias.rssreader.feed.data.repository.datasource.networking.FeedXmlApi
 import com.uzias.rssreader.feed.data.repository.datasource.networking.FeedXmlApiDatasource
 import com.uzias.rssreader.feed.data.repository.datasource.orm.RequeryDatasourceImpl
 import com.uzias.rssreader.feed.domain.repository.FeedRepository
-import com.uzias.rssreader.feed.domain.usecase.AddRss
-import com.uzias.rssreader.feed.domain.usecase.AddRssImpl
-import com.uzias.rssreader.feed.domain.usecase.GetRss
-import com.uzias.rssreader.feed.domain.usecase.GetRssImpl
+import com.uzias.rssreader.feed.domain.usecase.*
 import com.uzias.rssreader.feed.presentation.presenter.FeedPresenter
 import com.uzias.rssreader.feed.presentation.presenter.FeedPresenterImpl
 import dagger.Module
@@ -21,8 +18,8 @@ import javax.inject.Named
 
 @Module class FeedModule {
 
-    @Provides fun providesFeedPresenter(addRss: AddRss, getRss: GetRss)
-            : FeedPresenter = FeedPresenterImpl(addRss, getRss)
+    @Provides fun providesFeedPresenter(addRss: AddRss, getRss: GetRss, refreshRss: RefreshRss)
+            : FeedPresenter = FeedPresenterImpl(addRss, getRss, refreshRss)
 
 
     @Provides fun providesAddRss(feedRepository: FeedRepository) : AddRss
@@ -30,6 +27,9 @@ import javax.inject.Named
 
     @Provides fun providesGetRss(feedRepository: FeedRepository) : GetRss
             = GetRssImpl(feedRepository)
+
+    @Provides fun providesRefreshRss(feedRepository: FeedRepository) : RefreshRss
+            = RefreshRssImpl(feedRepository)
 
     @Provides fun providesFeedRepository(@Named("feedApiDatasource")
                                          feedApiDatasource: FeedDatasource,

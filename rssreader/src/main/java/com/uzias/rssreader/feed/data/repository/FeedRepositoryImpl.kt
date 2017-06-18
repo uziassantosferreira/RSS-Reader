@@ -3,10 +3,13 @@ package com.uzias.rssreader.feed.data.repository
 import com.uzias.rssreader.feed.data.repository.datasource.FeedDatasource
 import com.uzias.rssreader.feed.domain.model.Rss
 import com.uzias.rssreader.feed.domain.repository.FeedRepository
+import io.reactivex.Completable
 import io.reactivex.Observable
 
 class FeedRepositoryImpl(val feedApiDatasource: FeedDatasource, val ormDatasource: FeedDatasource)
     : FeedRepository {
+
+    override fun deleteRss(url: String): Completable  = ormDatasource.deleteRss(url)
 
     override fun addRss(url: String): Observable<Rss> = ormDatasource.getRssByUrl(url)
                 .switchIfEmpty(feedApiDatasource.getRssByUrl(url).flatMap{ormDatasource.save(it)})
